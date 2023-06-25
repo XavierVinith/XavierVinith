@@ -1,5 +1,5 @@
 - Hi, I’m @XavierVinith
-- Working as a HR @CTS.
+- Working as a HR @CTS
 - Have completed Master's in Statistics @Loyola
 - Completed certification in Python and Machine Learning @Softlogic systems
 - Looking for a role in Data Scientist/ Analyst to grow my career
